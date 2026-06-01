@@ -63,9 +63,9 @@ public class CityResponseSearchDTO {
     public Double getAverage() { return average; }
     public void setAverage(Double average) { this.average = average; }
     public Double getMin() { return min; }
-    public void setMin(Double max) { this.max = max; }
+    public void setMin(Double min) { this.min = min; }
     public Double getMax() { return max; }
-    public void setMax(Double average) { this.average = average; }
+    public void setMax(Double max) { this.max = max; }
     public Double getApartmentPerM2() { return apartmentPerM2; }
     public void setApartmentPerM2(Double apartmentPerM2) { this.apartmentPerM2 = apartmentPerM2; }
     public Double getHousePerM2() { return housePerM2; }
